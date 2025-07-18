@@ -1,3 +1,0 @@
-This is myfile.
-Test content -
-abcdefghijklmnopqrstuvwxyz
